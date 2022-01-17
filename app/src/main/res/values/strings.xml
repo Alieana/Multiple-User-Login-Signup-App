@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSignup</string>
+    <string name="student">Sign Up as Student</string>
+    <string name="club">Sign Up as Club</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">login</string>
+</resources>
